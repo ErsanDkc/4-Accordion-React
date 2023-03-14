@@ -21,7 +21,7 @@ function Question({title,info}) {
 
             }
             </p>
-        </article>;
+        </article>
     </div>
   );
 }
