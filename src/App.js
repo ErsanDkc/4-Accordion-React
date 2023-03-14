@@ -3,7 +3,7 @@ import './App.css';
 import data from "./components/Data";
 import { useState } from 'react';
 function App() {
-  const [questions, setQuestions] = useState(data)
+  const [questions,] = useState(data)
   return (
     <main className='container'>
       <h1>question</h1>
